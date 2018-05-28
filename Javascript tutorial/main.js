@@ -155,3 +155,23 @@
 // // Once you have selected an html element, you can modify it:
 // // document.getElementById('my-id').innerHTML = "new html"
 // // document.getElementById('my-id').className = "newclass otherclass"
+
+// --------------------------------------------
+
+// Events:
+
+// Popular Javascript Events Are:
+// - click
+// - mouseenter
+// - mouseleave
+// - mousedown
+// - mouseup
+// - mousemove
+// - keydown
+// - keyup
+// - blur
+// - focus
+
+// List of all events : "https://developer.mozilla.org/en-US/docs/Web/Events"
+
+// ------------------------------------------------------------
